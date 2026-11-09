@@ -1,0 +1,6 @@
+{
+  "name": "Aether Omega",
+  "description": "Planetary Fusion, Quantum Grid & Autonomous Tech Singularity Command OS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
